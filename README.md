@@ -5,6 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hbpei&label=Profile%20views&color=0e75b6&style=flat" alt="hbpei" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hbpei" alt="hbpei" /></a> </p>
+
 - 🌱 I’m currently learning **Software QA, Python for Data Science,**
 
 - 👯 I’m looking to collaborate on **any exciting projects**
